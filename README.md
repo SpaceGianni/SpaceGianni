@@ -10,7 +10,7 @@
 ![Gianni programming](https://github.com/SpaceGianni/resources/blob/main/Imagen%20PNG-C6C497945CB8-1.png)  
   
 
-### <div align="center">I'm Giannina, a full-time full-stack software developer </div>  
+### <div align="center">I'm Giannina, a full-stack software developer </div>  
   
 
 - 🔭 I’m currently developing several projects at [4GeeksAcademy](https://4geeks.com/es)  
