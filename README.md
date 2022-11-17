@@ -13,22 +13,19 @@
 ### <div align="center">I'm Giannina, a Full Stack Software Developer </div>  
   
 
-- 🔭 I’m currently developing several projects at [4GeeksAcademy](https://4geeks.com/es)  
-  
+- I just finished my studies at 4Geeks Academy and I loved programming 🤓
 
-- 🌱 I’m currently learning Javascript  
-  
+- I am working on improving my final project 🥬
 
-- ❓ Ask me about Bootstrap 5  
-  
+- I'm interested in tech companies 📡 && TechEd Companies 👩🏽‍🏫
 
-- ⚡ Fun fact: I like gardening  
+- In my free time I like gardening 🌱
   
 
 <br/>  
 
 
-## Languages and Tools:
+## Languages and Tools
 
 <p align="left"> 
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
