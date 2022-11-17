@@ -17,7 +17,7 @@
 
 - I am working on improving my final project 🥬
 
-- I'm interested in tech companies 📡 && TechEd Companies 👩🏽‍🏫
+- I'm interested in tech companies 📡 , EdTech Companies 👩🏽‍🏫 && FoodTech Companies 🫔
 
 - In my free time I like gardening 🌱
   
